@@ -1,3 +1,12 @@
+[![MasterHead](HotboyCodeMe.gif)](https://github.com/ivelanrynne)
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&repeat=true&rainbow=true&lines=Information+Technology+Student;Aspiring+Backend+Developer;C%23+%7C+C%2B%2B+%7C+SQL+Server;.NET+%7C+Git+%7C+GitHub;Visual+Studio+Code+%7C+Linux;Always+Learning+New+Things"
+    alt="Typing SVG"
+  />
+</div>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1451853099932188793) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vinh.vuquang.37454) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-vinh-v%C5%A9-252ab13b5/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivelanrynne@gmail.com) 
