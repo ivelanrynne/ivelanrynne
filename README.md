@@ -18,10 +18,8 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/ivelanrynne/ivelanrynne/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivelanrynne/ivelanrynne/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ivelanrynne/ivelanrynne/output-3d-contrib/day.svg" />
-	</picture>
-</p>
+<h2 align="center">Building..</h2>
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
+</div>
+<br>
