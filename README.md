@@ -1,12 +1,50 @@
-[![MasterHead](HotboyCodeMe.gif)](https://github.com/ivelanrynne)
-
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&repeat=true&rainbow=true&lines=Information+Technology+Student;Aspiring+Backend+Developer;C%23+%7C+C%2B%2B+%7C+SQL+Server;.NET+%7C+Git+%7C+GitHub;Visual+Studio+Code+%7C+Linux;Always+Learning+New+Things"
-    alt="Typing SVG"
-  />
+
+<a href="https://github.com/ivelanrynne">
+  <img src="HotboyCodeMe.gif" alt="MasterHead" width="100%" />
+</a>
+
+<br><br>
+
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&repeat=true&lines=Information+Technology+Student;Aspiring+Backend+Developer;C%23+%7C+C%2B%2B+%7C+SQL+Server;.NET+%7C+Git+%7C+GitHub;Visual+Studio+Code+%7C+Linux;Always+Learning+New+Things"
+  alt="Typing SVG"
+/>
+
 </div>
 
+------
+
+<div>
+  <img align="right" width="300" alt="Ivel Anrynne Avatar" src="HotboyCodeMe.gif"/>
+
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35">
+    About Me
+  </h2>
+
+  <p align="justify">
+    👋 Hi! I'm <b>Vũ Quang Vinh (Ivel Anrynne)</b>, an Information Technology student from Vietnam who enjoys turning ideas into real projects through code.<br><br>
+
+    💻 <b>Currently focusing on:</b>
+    <ul>
+      <li><b>Programming:</b> C#, C++, SQL Server</li>
+      <li><b>Development:</b> .NET, Git, GitHub</li>
+      <li><b>Environment:</b> Visual Studio Code, Visual Studio, Linux (Ubuntu)</li>
+      <li><b>Learning:</b> Backend Development, Data Structures & Algorithms, Clean Code</li>
+    </ul>
+
+    🌱 <b>My Goal:</b> Become a skilled Backend Developer by continuously building projects, improving problem-solving skills, and writing maintainable, efficient code.<br><br>
+
+    ⚡ <b>Fun Fact:</b> I believe every project is another step toward becoming the developer I choose to be.<br>
+
+    <i>"I am not who others think I am. I am who I choose to become."</i>
+  </p>
+</div>
+
+<br clear="right"/>
+
+------
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1451853099932188793) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vinh.vuquang.37454) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-vinh-v%C5%A9-252ab13b5/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivelanrynne@gmail.com) 
