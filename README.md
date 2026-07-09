@@ -1,72 +1,161 @@
-<div align="center">
+# <div align="center">
 
 <a href="https://github.com/ivelanrynne">
-  <img src="HotboyCodeMe.gif" alt="MasterHead" width="100%" />
+  <img src="HotboyCodeMe.gif" alt="Ivel Anrynne Banner" width="100%" />
 </a>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=750&color=58A6FF&repeat=true&lines=V%C5%A9+Quang+Vinh+%7C+Ivel+Anrynne;Information+Technology+Student;Software+Engineer+in+Progress;C%23+%7C+C%2B%2B+%7C+Python+%7C+SQL;Git+%7C+GitHub+%7C+Linux;Learning+by+Building+Real+Projects;One+Commit+Closer+Every+Day" alt="Typing SVG"/>
 
 <br><br>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&repeat=true&lines=Information+Technology+Student;Aspiring+Backend+Developer;C%23+%7C+C%2B%2B+%7C+SQL+Server;.NET+%7C+Git+%7C+GitHub;Visual+Studio+Code+%7C+Linux;Always+Learning+New+Things"
-  alt="Typing SVG"
-/>
+<a href="https://github.com/ivelanrynne">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/quang-vinh-v%C5%A9-252ab13b5">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ivelanrynne@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discordapp.com/users/1451853099932188793">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
-------
+---
 
-<div>
-  <img align="right" width="300" alt="Ivel Anrynne Avatar" src="HotboyCodeMe.gif"/>
+<img align="right" width="310" src="VRGme.png"/>
 
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35">
-    About Me
-  </h2>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3NiZnJzNGltN241azl3Z29mZnY5cWFxN3RkMnpwMmh1ajVrcGM3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1ynCEtlgMPAeNAqdnu/giphy.gif" width="35"/> About Me
 
-  <p align="justify">
-    👋 Hi! I'm <b>Vũ Quang Vinh (Ivel Anrynne)</b>, an Information Technology student from Vietnam who enjoys turning ideas into real projects through code.<br><br>
+Hi! I'm **Vũ Quang Vinh**, better known online as **Ivel Anrynne**.
 
-    💻 <b>Currently focusing on:</b>
-    <ul>
-      <li><b>Programming:</b> C#, C++, SQL Server</li>
-      <li><b>Development:</b> .NET, Git, GitHub</li>
-      <li><b>Environment:</b> Visual Studio Code, Visual Studio, Linux (Ubuntu)</li>
-      <li><b>Learning:</b> Backend Development, Data Structures & Algorithms, Clean Code</li>
-    </ul>
+I'm an **Information Technology student from Vietnam** who enjoys turning ideas into software through clean, maintainable code. I believe the best way to learn is by building real projects, solving real problems, and continuously improving every day.
 
-    🌱 <b>My Goal:</b> Become a skilled Backend Developer by continuously building projects, improving problem-solving skills, and writing maintainable, efficient code.<br><br>
+### 🚀 Current Focus
 
-    ⚡ <b>Fun Fact:</b> I believe every project is another step toward becoming the developer I choose to be.<br>
+* 💻 C#, C++, Python
+* 🗄️ SQL Server
+* 🌐 Git & GitHub
+* 🖥️ Linux (Ubuntu)
+* ⚙️ .NET Ecosystem
+* 📚 Data Structures & Algorithms
+* 🧹 Clean Code & Software Design
+* 🔍 Problem Solving
 
-    <i>"I am not who others think I am. I am who I choose to become."</i>
-  </p>
-</div>
+### 🎯 Goals
+
+My long-term goal is to become a professional **Software Engineer**, specializing in backend systems while continuously expanding into full-stack development, software architecture, and system design.
+
+Outside programming, I enjoy learning about:
+
+* Mathematics
+* History
+* Politics
+* Culture & Society
+* Languages
+* Writing
+
+### ⚡ Philosophy
+
+> **"I'm not who everybody thinks I am.
+> I'm the one I choose to become."**
 
 <br clear="right"/>
 
-------
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1451853099932188793) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/vinh.vuquang.37454) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/quang-vinh-v%C5%A9-252ab13b5/?skipRedirect=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivelanrynne@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ivelanrynne&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ivelanrynne&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ivelanrynne&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ivelanrynne&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
 
+### Languages
 
-<h2 align="center">Building..</h2>
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+</p>
+
+### Creative
+
+<p>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/CorelDRAW-46A247?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile" width="100%" />
-</div>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivelanrynne&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivelanrynne&layout=compact&theme=tokyonight&hide_border=true"/>
+
 <br>
+
+<img src="https://streak-stats.demolab.com?user=ivelanrynne&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Activity
+
+<div align="center">
+
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+# 👀 Visitors
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ivelanrynne\&style=for-the-badge\&color=58A6FF)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building software. Building myself.
+
+*"Every commit is another step toward the developer I choose to become."*
+
+Thanks for visiting my profile! ⭐
+
+</div>
