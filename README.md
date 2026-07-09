@@ -1,5 +1,7 @@
 # <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=26,27,38,255;255,145,0,255&text=Ivel%20Anrynne&fontColor=ffffff&fontSize=50&fontAlignY=35&desc=Software%20Engineer%20in%20Progress&descAlignY=55"/>
+
 <a href="https://github.com/ivelanrynne">
   <img src="HotboyCodeMe.gif" alt="Ivel Anrynne Banner" width="100%" />
 </a>
@@ -72,7 +74,7 @@ Outside programming, I enjoy learning about:
 
 ---
 
-# 💻 Tech Stack
+# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hqNmF0dmNoY3d5czFnZXE2cW1pY2RucWRuaTZhOThlZ25pNzVneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUTywPPYZpdDChyBaZ/giphy.gif" width="35"> Tech Stack
 
 ### Languages
 
@@ -104,7 +106,7 @@ Outside programming, I enjoy learning about:
 
 ---
 
-# 📊 GitHub Statistics
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
 <div align="center">
 
